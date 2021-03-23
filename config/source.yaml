@@ -80,3 +80,23 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/SurfShark
+    
+# tg频道抓取
+- type: tgchannel
+  options:
+    channel: https://t.me/baipiaojiedian
+    num: 200
+    
+    
+   # 订阅链接11
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/ss-sub
+    
+    
+     # 订阅链接12
+- type: subscribe
+  options:
+    url: https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3QvcyFBcm1pZzBTamlSVWNnakV5cF9Sc2pRVDRBZVN1P2U9QWFLeEow
+    
+    
