@@ -29,6 +29,38 @@
   options:
     url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
 
-# 某个网站抓取
-- type: web-freessrxyz
+# 抓取1
+- type: web-fanqiangdang
   options:
+    url: https://raw.githubusercontent.com/jsnjsnwbtwbt/TEzNC1jOTY1ZGE5OWM1ZT/main/Stable
+    
+# 抓取2
+- type: web-fanqiangdang
+  options:
+    url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/SurfShark
+
+# 抓取3
+- type: web-fanqiangdang
+  options:
+    url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/plate
+
+# 抓取4
+- type: web-fanqiangdang
+  options:
+    url: https://suo.yt/aFe20zz
+
+# 抓取5
+- type: web-fanqiangdang
+  options:
+    url: http://194.87.69.96:8888/down/nuoBMVsOH0go
+
+
+# 抓取6
+- type: web-fanqiangdang
+  options:
+    url: https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3QvcyFBcm1pZzBTamlSVWNnakV5cF9Sc2pRVDRBZVN1P2U9QWFLeEow
+
+# 抓取7
+- type: web-fanqiangdang
+  options:
+    url: https://raw.githubusercontent.com/jsnjsnwbtwbt/2D2F/main/2C2F
