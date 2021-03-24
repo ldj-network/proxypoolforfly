@@ -100,3 +100,64 @@
     url: https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3QvcyFBcm1pZzBTamlSVWNnakV5cF9Sc2pRVDRBZVN1P2U9QWFLeEow
     
     
+# 网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://free-ss.site/
+    
+ 
+ # 网页模糊抓取
+- type: webfuzz
+  options:
+  url: https://www.myexplor.me
+  
+   # 网页模糊抓取
+- type: webfuzz
+  options:
+  url: https://github.com/free-ss/free-ss.site
+
+    
+  # 订阅链接13
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/AmazingDM/sub/master/v2ray_ssrshare.com
+    
+
+  # 订阅链接13
+- type: subscribe
+  options:
+    url: https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb
+    
+    
+  # 订阅链接13
+- type: subscribe
+  options:
+    url: https://t.me/outlinex
+    
+   # 订阅链接13
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/AmazingDM/sub/master/ssrshare.com
+    
+    
+   # 订阅链接13
+- type: subscribe
+  options:
+    url: https://prom-php.herokuapp.com/cloudfra_ssr.txt
+    
+    
+    
+
+# tg频道抓取
+- type: tgchannel
+  options:
+    channel: https://t.me/TGSoBot?start=f_v
+    num: 200
+
+
+   # 订阅链接13
+- type: subscribe
+  options:
+    url: https://yzzz.ml/freessr
+    
+    
